@@ -1,0 +1,6 @@
+Ngrains
+Vol1  ptID  nneigh  neighb_ptID_1  neighb_ptID_2 ....   neighb_ptID_nneigh
+Vol2  ptID  nneigh  neighb_ptID_1  neighb_ptID_2 ....   neighb_ptID_nneigh
+ .      .      .
+ .      .      .
+ .      .      .
